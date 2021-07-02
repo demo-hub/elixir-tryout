@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :busi_api, BusiApi.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "C8K9MvLR",
   database: "busi_api_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
